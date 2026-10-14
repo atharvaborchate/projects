@@ -1,5 +1,6 @@
-.vscode/
+.env
 __pycache__/
 *.pyc
+
+.vscode/
 .env
-accessguard.py
